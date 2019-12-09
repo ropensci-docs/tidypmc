@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  pmcftp: pmcftp.html
+  tidypmc: tidypmc.html
+last_built: 2021-07-19T04:13Z
+urls:
+  reference: https://docs.ropensci.org/tidypmc/reference
+  article: https://docs.ropensci.org/tidypmc/articles
+
