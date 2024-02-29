@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d9739ce3ef6f57832f56bb488de80c48b58e1f91",
+    "author": "rOpenSci Bot <myrmecocystus+ropenscibot@gmail.com>",
+    "time": "2019-12-09 19:35:01",
+    "files": 1,
+    "merge": false,
+    "message": "Add links to official docs site.\nFor more details: https://ropensci.org/technotes/2019/06/07/ropensci-docs/\n"
+  },
+  "repo": "https://github.com/ropensci/tidypmc",
+  "pkg": "tidypmc"
+}
